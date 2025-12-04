@@ -1,4 +1,5 @@
-n = int(input("Enter numnber"))
+n = int(input("Enter numnber "))
+
 while n > 0:
     if n <= 0:
         break

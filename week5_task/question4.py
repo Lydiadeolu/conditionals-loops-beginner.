@@ -1,6 +1,7 @@
-Input =  input("input password:")
-while Input == "python123":
-    print("Password accepted.")
-    Input =  input("input password:")
+input_ =  input("input password: ")
 
-print("Wrong password, try again.")
+while input_ == "python123":
+    print("Password accepted.")
+    input_ =  input("input password: ")
+
+print("Wrong password, try again. ")
